@@ -1,0 +1,6 @@
+# Ignore conf.env and similar sensitive files
+conf.env
+
+# Optionally, ignore other environment or config files
+*.env
+*.config
